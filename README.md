@@ -4,6 +4,8 @@
 
 This project provides the hardware open-source content for the "QingLoong" full-size universal humanoid robot. It includes information about the robot's main system components, core parts, technical specifications, and perception system. The robot features bionic motion control and highly flexible sensory capabilities, suitable for automating tasks in various environments. This open-source content includes drawings, design plans, and relevant documents, aiming to promote the further development of artificial intelligence and robotics technologies.
 
+📖 **[Read this in Chinese / 阅读中文版](./README-zh.md)**
+
 ## **Folder Structure**
 
 - **TA00-03-00-Waist Component** Contains the robot's waist joint design, drive system, and mechanical structure drawings.
