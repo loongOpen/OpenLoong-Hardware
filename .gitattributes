@@ -1,1 +1,2 @@
 QingLoong[[:space:]]V2.5/EN/QingLoong[[:space:]]V2.5[[:space:]]-[[:space:]]3D[[:space:]]File/**/*.step filter=lfs diff=lfs merge=lfs -text
+QingLoong[[:space:]]V2.5/zh/青龙V2.5[[:space:]]-[[:space:]]三维文档/**/*.step filter=lfs diff=lfs merge=lfs -text
